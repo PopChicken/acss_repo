@@ -1,0 +1,6 @@
+[submodule "AcssBackend"]
+	path = AcssBackend
+	url = https://github.com/PopChicken/AcssBackend.git
+[submodule "AcssFrontend"]
+	path = AcssFrontend
+	url = https://github.com/PopChicken/AcssFrontend.git
